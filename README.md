@@ -8,8 +8,8 @@
 ![Header](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExejVrNWFwcWtlemx1ZDc1NmQyMW1ra25pdmtvdnphMjRiMnRhenJ3ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ELham0Mveox9e/giphy.gif)
 
 <h2 align="left">👨‍🎓 About me:</h2>
-<h3>I am a cybersecurity researcher and full-stack developer with experience in MySQL, PHP, and Linux file systems. I actively participate in CTF challenges and bug bounty programs, continuously honing my skills. Additionally, I bring creativity to my work as a graphic designer, blending technical expertise with visual design.
-</h3>
+<p align="right">I am a cybersecurity researcher and full-stack developer with experience in MySQL, PHP, and Linux file systems. I actively participate in CTF challenges and bug bounty programs, continuously honing my skills. Additionally, I bring creativity to my work as a graphic designer, blending technical expertise with visual design.
+</p>
 
 ---
 <h2 align="left">🌱 I’m currently learning :</h2>
